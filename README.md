@@ -29,7 +29,7 @@ Using crop and resizing method as mentioned before
 
 Using btch_tfms to transform the pictures with a multiplier from 0 to 2.0
 
-More info about augmentation, a good note book is [Introduction to Image Augmentation using fastai by Sanyam Bhutani](https://www.kaggle.com/code/init27/introduction-to-image-augmentation-using-fastai)
+More info about augmentation, a good notebook is [Introduction to Image Augmentation using fastai by Sanyam Bhutani](https://www.kaggle.com/code/init27/introduction-to-image-augmentation-using-fastai)
 
 Dataloaders with multiplier with values 0.1, 0.5, 1.0, 1.5 and 2.0
 
