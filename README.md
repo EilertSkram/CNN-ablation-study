@@ -40,4 +40,9 @@ Using Resnet18 with 10 epochs
 After 5 epochs augmented data performs better
 
 
+### architecure
+
+https://www.kaggle.com/code/jhoward/which-image-models-are-best/
+
+
 
