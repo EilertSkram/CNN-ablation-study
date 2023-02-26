@@ -49,5 +49,5 @@ Limited which models avalible due to computing power and image size
 Exploring the different levels of resnet-architectures, but including one model from different architecture
 ![bilde](https://user-images.githubusercontent.com/54356437/221413145-ca330c7e-d200-4f3b-b207-35d51e893658.png)
 
-Surprising how bad 
+Surprising how bad efficinet is performing
 
