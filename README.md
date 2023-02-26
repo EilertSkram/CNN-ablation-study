@@ -44,5 +44,10 @@ After 5 epochs augmented data performs better
 
 Used [Jeremy Howard's Notebook](https://www.kaggle.com/code/jhoward/which-image-models-are-best/) to find different architectures to try out
 
+Limited which models avalible due to computing power and image size
 
+Exploring the different levels of resnet-architectures, but including one model from different architecture
+![bilde](https://user-images.githubusercontent.com/54356437/221413145-ca330c7e-d200-4f3b-b207-35d51e893658.png)
+
+Surprising how bad 
 
