@@ -52,9 +52,15 @@ Exploring the different levels of resnet-architectures, but including one model 
 Surprising how bad efficinet is performing
 
 
-### The ablation study
+## The ablation study
 
-## Resnet26
+### Resnet26
+
+#### Resize 80
+![bilde](https://user-images.githubusercontent.com/54356437/222142283-608e1ec5-f180-4c65-b80f-17c4c86593b8.png)
+
+
+#### Resize 128
 
 <img width="955" alt="bilde" src="https://user-images.githubusercontent.com/54356437/222101474-a8991f8a-0f32-41ce-9159-09ae20503dfc.png">
 
@@ -65,7 +71,7 @@ Dihedral
 <img width="754" alt="bilde" src="https://user-images.githubusercontent.com/54356437/222100516-5cc81a2b-9976-462a-96c4-69fbffd8154b.png">
 
 
-## Lowering architecture 
+### Lowering architecture 
 Resnet18
 
 ![bilde](https://user-images.githubusercontent.com/54356437/222101088-ba55062a-1221-4e28-bfa6-31ed5e7f0efb.png)
