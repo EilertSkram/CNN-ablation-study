@@ -55,13 +55,18 @@ Surprising how bad efficinet is performing
 ### The ablation study
 
 ## Resnet26
+
+<img width="955" alt="bilde" src="https://user-images.githubusercontent.com/54356437/222101474-a8991f8a-0f32-41ce-9159-09ae20503dfc.png">
+
 ![bilde](https://user-images.githubusercontent.com/54356437/222100289-5a28c7c2-de56-414c-8a10-27871d8e142b.png)
 
 Dihedral
+
 <img width="754" alt="bilde" src="https://user-images.githubusercontent.com/54356437/222100516-5cc81a2b-9976-462a-96c4-69fbffd8154b.png">
 
 
 ## Lowering architecture 
 Resnet18
+
 ![bilde](https://user-images.githubusercontent.com/54356437/222101088-ba55062a-1221-4e28-bfa6-31ed5e7f0efb.png)
 
