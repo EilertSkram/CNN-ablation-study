@@ -56,6 +56,8 @@ Surprising how bad efficinet is performing
 
 ### Resnet26
 
+### Augmentation impact
+
 #### Resize 80
 ![bilde](https://user-images.githubusercontent.com/54356437/222142283-608e1ec5-f180-4c65-b80f-17c4c86593b8.png)
 
