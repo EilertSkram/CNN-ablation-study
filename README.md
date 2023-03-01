@@ -66,6 +66,7 @@ From the early testing, resnet26 seems to perform the best. Will be chosen as th
 
 ![bilde](https://user-images.githubusercontent.com/54356437/222142283-608e1ec5-f180-4c65-b80f-17c4c86593b8.png)
 
+Impact does not seem that significiant. Suspecting its due to image size, so limited how much levels of augmentation and change there is to be had
 
 ### Resize 128 lowering architecture 
 
