@@ -59,6 +59,9 @@ Surprising how bad efficinet is performing
 ### Augmentation impact
 
 #### Resize 80
+
+<img width="1089" alt="bilde" src="https://user-images.githubusercontent.com/54356437/222142744-8c3deb0a-e869-4c12-9aaa-fc52a573e27e.png">
+
 ![bilde](https://user-images.githubusercontent.com/54356437/222142283-608e1ec5-f180-4c65-b80f-17c4c86593b8.png)
 
 
