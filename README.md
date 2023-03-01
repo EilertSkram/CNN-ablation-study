@@ -73,8 +73,7 @@ From the early testing, resnet26 seems to perform the best. Will be chosen as th
 
 | resnet26 | resnet18 |
 | --- | --- |
-| ![bilde](https://user-images.githubusercontent.com/54356437/222100289-5a28c7c2-de56-414c-8a10-27871d8e142b.png) | 
-![bilde](https://user-images.githubusercontent.com/54356437/222101088-ba55062a-1221-4e28-bfa6-31ed5e7f0efb.png)|
+| ![bilde](https://user-images.githubusercontent.com/54356437/222100289-5a28c7c2-de56-414c-8a10-27871d8e142b.png) | ![bilde](https://user-images.githubusercontent.com/54356437/222101088-ba55062a-1221-4e28-bfa6-31ed5e7f0efb.png)|
 
 
 Dihedral
