@@ -72,6 +72,8 @@ Impact does not seem that significiant. Suspecting its due to image size, so lim
 
 <img width="955" alt="bilde" src="https://user-images.githubusercontent.com/54356437/222101474-a8991f8a-0f32-41ce-9159-09ae20503dfc.png">
 
+Codeblocks are the same for the resnet18 model, with 'resnet26' replaced with 'resnet18'
+
 | resnet26 | resnet18 |
 | --- | --- |
 | ![bilde](https://user-images.githubusercontent.com/54356437/222100289-5a28c7c2-de56-414c-8a10-27871d8e142b.png) | ![bilde](https://user-images.githubusercontent.com/54356437/222101088-ba55062a-1221-4e28-bfa6-31ed5e7f0efb.png)|
